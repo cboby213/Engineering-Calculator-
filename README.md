@@ -77,7 +77,7 @@ It supports advanced mathematical operations and provides a clean, responsive us
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/engineering-calculator.git
+   git clone https://github.com/cboby213/engineering-calculator.git
    ```
 
 2. Open the project:
